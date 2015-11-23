@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>5ee7a667-4183-42d5-bbd1-1a7e25630cd4</TargetProject>
+    <FriendlyName>TurnOff</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\Mario\AppData\Local\Temp\TurnOff_20151122.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
